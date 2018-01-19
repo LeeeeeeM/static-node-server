@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.17.1",
+    "cheerio": "^1.0.0-rc.2",
     "koa": "^2.4.1",
     "koa-helmet": "^3.3.0",
     "koa-router": "^7.3.0",
